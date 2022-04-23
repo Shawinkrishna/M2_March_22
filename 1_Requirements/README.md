@@ -135,5 +135,54 @@ After wiring and connecting all of the devices and connecting them to the switch
 
 
 
+## SWOT ANALYSIS:
+
+| STRENGTHS:                    | WEAKNESS:                       |
+|-------------------------------|---------------------------------|
+| * Easily available components.| * Not new and advanced.         |
+| * Easily used.                | * Most prefer advanced features.|
+| * User friendly.              |                                 |
+
+| OPPORTUNITIES:                | THREATS:                        |                               
+|-------------------------------|---------------------------------|                                 
+| * Can be used in houses.      | * High competition.             |
+| * High security.              | * May become extinct.           |
+
+
+## ADVANTAGES:
+
+* High security.
+* No more keys.
+* Less maintainance.
+
+## DISADVATAGES
+
+* Circit damage.
+* LED damage.
+
+## HIGH LEVEL REQUIREMENTS:
+
+| RID  | DESCRIPTION | STATUS      |
+|------|-------------|-------------|
+| HLR1 | C LANGUAGE  | IMPLEMENTED |
+| HLR2 | OS WINDOWS  | IMPLEMENTED |
+| HLR3 | OS LINUX    | IMPLEMENTED |
+| HLR4 | HARD DISK   | IMPLEMENTED |
+| HLR5 | RAM 4GB     | IMPLEMENTED |
+
+## LOW LEVEL REQUIREMENTS
+
+| RID  | DESCRIPTION | STATUS      |
+|------|-------------|-------------|
+| LLR1 | SWITCH ON   | IMPLEMENTED |
+| LLR2 | SWITCH OFF  | IMPLEMENTED |
+| LLR3 | GROUND      | IMPLEMENTED |
+| LLR4 | VOLTAGE     | IMPLEMENTED |
+
+## CONCLUSION:
+
+As the technology is growing the need for security is also growing. In this project i have tried to implement a door sensor in simple way using ATmega microcontroller. It shows our door is open or close by glowing of LED. If the door is open LED will be ON. If the door is closed LED will be OFF. This simple project will be very useful for all of us.
+
+
 
 
